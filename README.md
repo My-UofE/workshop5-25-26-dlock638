@@ -207,7 +207,7 @@ To enhance your understanding of *passing by value* of reference data types, let
 
 **TASK 2.1** 
 
-Add two lines to the bottom of the the `changeAppleColor` method as follows:
+Add two lines to the bottom of the `changeAppleColor` method as follows:
 
 ```java
      public static void changeAppleColor(Apple apple){
